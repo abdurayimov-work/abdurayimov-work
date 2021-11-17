@@ -1,9 +1,8 @@
 ## Who I am 🤔
 
-[![Linkedin](https://img.shields.io/badge/-wppunk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eabdurayimov/)](https://www.linkedin.com/in/eabdurayimov/)
-[![Telegram](https://img.shields.io/badge/-wppunk-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@akaramires)](https://web.telegram.org/#/im?p=@akaramires)
-![RU Stackoverflow reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/243545?label=reputation&logo=stackoverflow)
-![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9745718?label=reputation&logo=stackoverflow)
+[![Linkedin](https://img.shields.io/badge/-eabdurayimov-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eabdurayimov/)](https://www.linkedin.com/in/eabdurayimov/)
+[![Telegram](https://img.shields.io/badge/-akaramires-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@akaramires)](https://web.telegram.org/#/im?p=@akaramires)
+[![Facebook](https://img.shields.io/badge/-akaramires-3b5998?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/akaramires/)](https://www.facebook.com/akaramires/)
 [![Repos](https://badges.pufler.dev/repos/abdurayimov-work)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdurayimov-work.abdurayimov-work)
 
@@ -12,14 +11,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working
 
 ## 📈 GitHub Stats
 
