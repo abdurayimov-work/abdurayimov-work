@@ -6,12 +6,8 @@
 [![Repos](https://badges.pufler.dev/repos/abdurayimov-work)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdurayimov-work.abdurayimov-work)
 
-<!--
-**abdurayimov-work/abdurayimov-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working
+- I’m currently working...
 
 ## GitHub Stats
 
