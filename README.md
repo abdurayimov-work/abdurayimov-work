@@ -1,4 +1,11 @@
-### Hi there 👋
+## Who I am 🤔
+
+[![Linkedin](https://img.shields.io/badge/-wppunk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eabdurayimov/)](https://www.linkedin.com/in/eabdurayimov/)
+[![Telegram](https://img.shields.io/badge/-wppunk-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@akaramires)](https://web.telegram.org/#/im?p=@akaramires)
+![RU Stackoverflow reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/243545?label=reputation&logo=stackoverflow)
+![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9745718?label=reputation&logo=stackoverflow)
+[![Repos](https://badges.pufler.dev/repos/abdurayimov-work)](https://badges.pufler.dev)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdurayimov-work.abdurayimov-work)
 
 <!--
 **abdurayimov-work/abdurayimov-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +24,3 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=abdurayimov-work&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/abdurayimov-work/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurayimov-work&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/abdurayimov-work/github-readme-stats)
