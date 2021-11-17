@@ -13,3 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📈 GitHub Stats
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=abdurayimov-work
+&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/abdurayimov-work
+/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurayimov-work
+&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/abdurayimov-work
+/github-readme-stats)
